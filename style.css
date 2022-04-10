@@ -1,0 +1,433 @@
+body
+{
+    margin: 0%;
+}
+.mainbody
+{
+   
+}
+/*header */
+.container1
+{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    background-color: #128c7e;
+    
+}
+.header1
+{
+    width: 25%;
+    
+
+}
+.header1 img
+{
+    padding-top: 24px;
+    padding-left: 149px;
+}
+
+.header2
+{
+    width: 58%;
+    
+    color: rgb(15, 15, 15);    
+    display: flex;
+    padding-top: 36px;
+    padding-left: 15px;
+    justify-content: space-evenly;
+}
+
+.header2 a
+{
+    text-decoration: none;
+    
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 100;
+}
+.header3
+{
+    width: 17%;
+    
+    display: flex;
+}
+.header3 img
+{
+    height: 20px;
+    padding-top: 34px;
+}
+.header3 h1
+{
+    font-size: 15px;
+    padding-top: 25px;
+    padding-left: 3px;
+    font-weight: 400;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+/* header completed */
+
+
+/*section 2 started */
+
+.container2
+{
+    width: 100%;
+    height: 650px;
+    background-color: chartreuse;
+    display: flex;
+}
+.sec1
+{
+    width: 50%;
+    background-color: white;
+    height: 650px;
+}
+.sec1 h1
+{
+    font-size: 37px;
+    line-height: 31px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-top: 114px;
+    padding-left: 281px;
+}
+.sec1 p
+{
+    color: #1c1e21;
+    font-size: 18px;
+    line-height: 26px;
+    padding-left: 281px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.sec1 p1
+{
+    color: #5E5E5E;
+    font-size: 16px;
+    padding-left: 281px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.sec1a p
+{
+    color: #5E5E5E;
+    font-size: 16px;
+    padding-left: 281px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.sec1b i
+{
+    padding-left: 281px;
+    padding-top: 16px;
+    color: #1CB39B;
+}
+.sec1b
+{
+    display: flex;
+}
+
+.sec1b p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 120%;
+    padding-left: 10px;
+    color:#1CB39B;   
+}
+.sec1c
+{
+    display: flex;
+}
+
+.sec1c i
+{
+    padding-left: 281px;
+    padding-top: 16px;
+    color: #1CB39B;
+}
+.sec1c p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 120%;
+    padding-left: 10px;
+    color:#1CB39B;
+}
+.sec1d
+{
+    display: flex;
+}
+.sec1d i
+{
+    padding-left: 281px;
+    padding-top: 16px;
+    color: #1CB39B;
+}
+.sec1d p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 120%;
+    padding-left: 10px;
+    color:#1CB39B;
+}
+.sec2
+{
+    width: 50%;
+    height: 650px;
+    background-color: white;  
+}
+.sec2 img
+{
+    height: 574px;
+    padding-top: 52px;
+    padding-left: 82px;
+}
+
+/* section 2 completed */
+
+/* section 3 started */
+.container3
+{
+    width: 100%;
+    height: 800px;
+    background-color: white;
+    display: flex;
+    
+}
+.cont3sec1
+{
+    width: 49%;
+    background-color: rgb(217, 235, 233);
+    height: 800px;
+}
+.cont3sec1 h1
+{
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #1c1e21;
+    padding-left: 100px;
+    padding-top: 65px;
+}
+.cont3sec1 p
+{
+    color: #1c1e21;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    padding-left: 10px;
+    text-align: center;
+}
+.cont3sec1 img
+{
+    height: 358px;
+    padding-left: 165px;
+    padding-top: 42px;
+}
+.cont3sec2
+{
+    width: 2%;
+    background-color:white;
+    height: 800px;
+}
+.cont3sec3
+{
+    width: 49%;
+    background-color: rgb(232, 237, 240);
+    height: 800px;
+}
+.cont3sec3 img
+{
+    height: 352px; 
+    padding-left: 120px;
+    padding-top: 84px;
+}
+
+.cont3sec3a h1
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #1c1e21;
+    font-weight: 100;
+    font-size: 33px;
+    padding-left: 188px;   
+}
+.cont3sec3 p
+{
+    font-size: 18px;
+    color: #1c1e21;
+    font-weight: 100;
+    text-align: center;
+
+}
+/* section 3 completed */
+
+/*section 4 started */
+.container4
+{
+    width: 100%;
+    height: 200px;
+    background-color:white;
+    
+}
+.container4 button
+{
+    height: 54px;
+    width: 248px;
+    margin-left: 566px;
+    margin-top: 74px;
+    border-radius: 40px;
+    color: #128c7e;
+    border: 2px solid #77d7c8;
+}
+/* section 4 completed */
+
+
+/* section 5 started */
+.container5
+{
+    width: 100%;
+    height: 370px;
+    background-color: crimson;
+    display: flex;
+}
+.container5a
+{
+    width: 25%;
+    height: 370px;
+    background-color: #27454e;
+}
+.container5a h1
+{
+    color: #F0F4F9;
+    font-size: 16px;
+    line-height: 16px;
+    padding-left: 105px;
+    padding-top: 50px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.container5a p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    padding-left: 110px;
+}
+
+.container5b
+{
+    width: 25%;
+    height: 370px;
+    background-color:#27454e;
+}
+.container5b h1
+{
+    color: #F0F4F9;
+    font-size: 16px;
+    line-height: 16px;
+    padding-left: 105px;
+    padding-top: 50px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.container5b p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    padding-left: 110px;
+}
+.container5c
+{
+    width: 25%;
+    height: 370px;
+    background-color:#27454e;
+}
+.container5c h1
+{
+    color: #F0F4F9;
+    font-size: 16px;
+    line-height: 16px;
+    padding-left: 105px;
+    padding-top: 50px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.container5c p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    padding-left: 110px;
+}
+.container5d
+{
+    width: 25%;
+    height: 370px;
+    background-color: #27454e;
+}
+.container5d h1
+{
+    color: #F0F4F9;
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 105px;
+    padding-top: 50px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.container5d p
+{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    padding-left: 110px;
+}
+/* section 5 completed */
+
+/*footer*/
+.footer
+{
+    width: 100%;
+    height: 80px;
+    background-color: red;
+    display: flex;
+}
+.foot1
+{
+    width: 50%;
+    background-color: rgb(32, 39, 41);
+}
+.foot1 h1
+{
+    font-size: 18px;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.foot2
+{
+    width: 50%;
+    background-color:rgb(32, 39, 41);
+}
+.foot2 h1
+{
+    font-size: 18px;
+    padding-left: 400px;
+    padding-top: 20px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+/*footer completed */
